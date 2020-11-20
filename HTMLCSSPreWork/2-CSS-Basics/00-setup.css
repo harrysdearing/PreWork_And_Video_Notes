@@ -1,0 +1,8 @@
+/*Find color code at https://htmlcolorcodes.com/color-picker/*/
+body {
+    background-color: #D3D3D3;
+}
+/*This is another CSS comment*/
+.wrapper {
+    border: 10px solid red;
+}
